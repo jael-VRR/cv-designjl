@@ -1,0 +1,55 @@
+.main{
+    margin-top: 15px;
+    background:#fddeef;
+}
+
+.img-ts{
+    height: 170px;
+    margin: 20px 40px 10px 40px;
+}
+
+.title{
+    text-align: center;
+    color: #343a40;
+}
+
+.icon-1{
+    height:20px;
+    width: 28px;
+}
+.progress{
+    background: rgb(114, 113, 113);
+    height: 10px;
+    width: 80px;
+}
+.progress1{
+    background: rgb(114, 113, 113);
+    height: 10px;
+    width: 75px;
+}
+.progress2{
+    background: rgb(114, 113, 113);
+    height: 10px;
+    width: 70px;
+}
+.progress3{
+    background: rgb(114, 113, 113);
+    height: 10px;
+    width: 78px;
+}
+.progress4{
+    background: rgb(114, 113, 113);
+    height: 10px;
+    width: 72px;
+}
+.progress-bar{
+    background: #CDCDCF;
+    height: 10px;
+    margin-top: 5px;
+    width: 100px;
+}
+.ui{
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+    background-color: #f8f9fa;
+}

@@ -1,18 +1,15 @@
 .main{
     margin-top: 15px;
-    background:#fddeef;
+    background:#f3ebef;
 }
-
 .img-ts{
     height: 170px;
     margin: 20px 40px 10px 40px;
 }
-
 .title{
     text-align: center;
     color: #343a40;
 }
-
 .icon-1{
     height:20px;
     width: 28px;
